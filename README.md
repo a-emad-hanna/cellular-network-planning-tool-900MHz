@@ -1,4 +1,4 @@
-# cellular-network-planning-tool-900MHz
+# Cellular Network Planning Tool 900MHz
  
 ## Project Overview
 This MATLAB-based tool helps service providers in the 900 MHz band plan their cellular networks. The tool calculates essential design parameters like:
