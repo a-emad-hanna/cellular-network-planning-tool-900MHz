@@ -1,5 +1,5 @@
-# cellular-network-planning-tool
- 
+# Cellular Network Planning Tool
+
 ## Project Overview
 This MATLAB-based tool helps service providers with 340 channels in the 900 MHz band plan their cellular networks. The tool calculates essential design parameters like:
 - Cluster size
